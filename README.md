@@ -8,3 +8,4 @@ I honestly dont know if it works, am i suppposed to be able to open this in atom
 I think you're suppose to open this in atom 
 
 how....
+wait ti think i know
